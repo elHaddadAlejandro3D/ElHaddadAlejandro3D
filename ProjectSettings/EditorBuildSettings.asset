@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/ESCENAS/ElHaddadAlejandro_UD3.unity
     guid: 02165ad7396b44748893bda2028a7384
+  - enabled: 1
+    path: Assets/ESCENAS/ElHaddadAlejandro_UD3_TOUCH.unity
+    guid: cd1ea178a6fbf1d4980a485bf349bc1c
   m_configObjects: {}
